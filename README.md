@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alireza64ahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="alireza64ahmadi" /> </p>
 
-- 🔭 I’m currently working on **car insurance**
+- 🔭 I’m currently working on **Reminder project (Megademy Challange)**
 
 - 🌱 I’m currently learning **JavaScript**
 
